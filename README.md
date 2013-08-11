@@ -37,4 +37,4 @@ rails new [app_name] -m rails_startup_template/template.rb
 
 Here are some things I'd like to add:
 
-- Optionally create a github repository. That sould be done by asking for username/password and issuing a curl API call.
+- Optionally create a github repository. That could be done by asking for username/password and issuing a curl API call.
